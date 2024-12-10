@@ -1,0 +1,1 @@
+This project is part of the ML4VA course project for CS 4774 at UVA. This project demonstrates the use of ML regression models in predicting the median income and population of Virginia, utilizing data form the past 40 years.
